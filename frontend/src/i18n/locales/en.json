@@ -1,0 +1,1362 @@
+{
+  "nav": {
+    "home": "Home",
+    "services": "Services",
+    "ai": "AI Sahayak",
+    "schemes": "Government Schemes",
+    "complaints": "My Complaints",
+    "help": "Help",
+    "documents": "Documents",
+    "offices": "Offices"
+  },
+  "brand": {
+    "name": "WORKFORCE",
+    "subtitle": "Sahayak",
+    "tagline": "Find. Book. Work. Grow."
+  },
+  "common": {
+    "search": "Search",
+    "clear": "Clear",
+    "learnMore": "Learn more",
+    "viewDetails": "View details",
+    "official": "Official information",
+    "submit": "Submit",
+    "continue": "Continue",
+    "back": "Back",
+    "next": "Next",
+    "loading": "Loading information...",
+    "noResults": "No results found",
+    "language": "Language"
+  },
+  "homePage": {
+    "badge": "Digital Assistance for Citizens",
+    "title": "Legal and government help in simple language",
+    "description": "Get preliminary guidance on property, inheritance, consumer rights, cyber fraud, agreements, and government schemes in one place.",
+    "actions": {
+      "start": "Get Help",
+      "explore": "Explore All Services"
+    },
+    "trust": {
+      "simple": "Information in simple language",
+      "stepByStep": "Step-by-step guidance",
+      "multilingual": "Marathi, Hindi and English"
+    },
+    "services": {
+      "eyebrow": "Popular Services",
+      "title": "Find the right help for your problem",
+      "description": "Understand preliminary information and next steps for common legal and citizen services.",
+      "property": {
+        "title": "Property Assistance",
+        "description": "Preliminary guidance related to land, property, documents, and ownership rights."
+      },
+      "inheritance": {
+        "title": "Inheritance and Will",
+        "description": "Understand preliminary information about inheritance rights, wills, and family property distribution."
+      },
+      "consumer": {
+        "title": "Consumer Rights",
+        "description": "Understand available options and next steps when you have a problem with a product or service."
+      },
+      "cyber": {
+        "title": "Cyber Fraud",
+        "description": "Learn what immediate steps to take if you experience online fraud."
+      }
+    },
+    "howItWorks": {
+      "eyebrow": "How It Works",
+      "title": "A simple way to get help",
+      "step1": {
+        "title": "Tell us your problem",
+        "description": "Describe your situation in simple language."
+      },
+      "step2": {
+        "title": "Get the right information",
+        "description": "View preliminary information and a checklist of required documents based on your issue."
+      },
+      "step3": {
+        "title": "Understand your next step",
+        "description": "Understand the relevant office, process, or possible next option."
+      }
+    },
+    "ai": {
+      "eyebrow": "AI Sahayak",
+      "title": "Need help finding an answer to your question?",
+      "description": "Describe your problem and understand possible next steps based on the available information.",
+      "action": "Ask AI Sahayak"
+    },
+    "schemes": {
+      "eyebrow": "Government Schemes",
+      "title": "Find schemes available for you",
+      "description": "Explore preliminary information about government schemes for farmers, women, healthcare, housing, and other areas.",
+      "action": "View Schemes"
+    },
+    "disclaimer": "WORKFORCE provides preliminary and general information. This service is not a replacement for a lawyer or the relevant government authority. Consult a qualified professional before making important legal or financial decisions."
+  },
+  "complaintsPage": {
+    "badge": "Complaint Management",
+    "title": "Track your complaint",
+    "description": "Register a complaint, get a reference number, and track its current status in one place.",
+    "track": {
+      "title": "Check complaint status",
+      "description": "Enter your complaint reference number to view its current status, when available.",
+      "placeholder": "e.g. WF-2026-00124",
+      "action": "Check Status",
+      "hint": "Your reference number may be available on your SMS or receipt."
+    },
+    "list": {
+      "eyebrow": "My Complaints",
+      "title": "Your complaints",
+      "description": "View the status of your submitted complaints and related office information."
+    },
+    "search": {
+      "placeholder": "Search by complaint number or type..."
+    },
+    "actions": {
+      "new": "New Complaint"
+    },
+    "types": {
+      "property": "Property complaint",
+      "consumer": "Consumer complaint",
+      "inheritance": "Inheritance complaint",
+      "agreement": "Agreement complaint",
+      "cyber": "Cyber fraud complaint"
+    },
+    "status": {
+      "pending": "Pending",
+      "inProgress": "In progress",
+      "resolved": "Resolved"
+    },
+    "card": {
+      "date": "Registered on",
+      "office": "Related office",
+      "view": "Details"
+    },
+    "empty": {
+      "title": "No complaints found",
+      "description": "No complaints match your search."
+    },
+    "timeline": {
+      "eyebrow": "Process",
+      "title": "How does a complaint move forward?",
+      "description": "A simple overview of what happens after a complaint is registered.",
+      "step1": "Register your complaint and receive a reference number",
+      "step2": "The concerned office reviews and processes the complaint",
+      "step3": "You receive the outcome or information about the next step"
+    },
+    "bottom": {
+      "title": "Not sure what to do?",
+      "description": "Ask the AI Sahayak about your problem and understand the next appropriate step.",
+      "action": "Use AI Sahayak"
+    },
+    "disclaimer": "This service provides preliminary guidance only. For legal or official decisions, consult the relevant government office or a qualified legal professional."
+  },
+  "cyberFraudPage": {
+    "badge": "Cyber Fraud",
+    "title": "What should you do after a cyber fraud?",
+    "description": "If money has been lost, act quickly. Taking the right steps immediately can be important."
+  },
+  "aiPage": {
+    "badge": "AI Sahayak",
+    "title": "Your digital legal guidance assistant",
+    "description": "Describe your problem in simple language. AI Sahayak can help explain preliminary information, required documents, and possible next steps."
+  },
+  "documentsPage": {
+    "badge": "Document Assistant",
+    "title": "Prepare the right documents",
+    "description": "Get a preliminary checklist of documents based on your issue and prepare for the next step."
+  },
+  "schemesPage": {
+    "badge": "Government Schemes",
+    "title": "Find government schemes for you",
+    "description": "Explore preliminary information about schemes related to farmers, women, healthcare, housing, and other areas."
+  },
+  "footer": {
+    "description": "A digital citizen-support platform designed to provide simple preliminary guidance on legal, financial, and government processes.",
+    "disclaimerShort": "Preliminary guidance • Not an official decision",
+    "services": "Services",
+    "property": "Property Assistance",
+    "inheritance": "Inheritance and Will",
+    "consumer": "Consumer Rights",
+    "agreements": "Agreements and Contracts",
+    "resources": "Useful Links",
+    "ai": "AI Sahayak",
+    "documents": "Document Assistant",
+    "schemes": "Government Schemes",
+    "offices": "Find an Office",
+    "complaints": "My Complaints",
+    "copyright": "All rights reserved.",
+    "madeForCitizens": "Made for citizens",
+    "tagline": "Your Guide for a Better Tomorrow",
+    "profileLink": "My Profile",
+    "loginLink": "Login / Sign up",
+    "feedbackLink": "Feedback"
+  },
+  "header": {
+    "language": "Language",
+    "help": "Help",
+    "menu": "Menu",
+    "statApproved": "✓ Government Recognized",
+    "statCopy": "National Legal Services Authority (NALSA) • Maharashtra Right to Services (RTS)",
+    "listen": "Listen",
+    "legalHelp": "Legal Help",
+    "cyberFraud": "Cyber Fraud",
+    "chooseLanguage": "Choose language",
+    "profile": "Profile"
+  },
+  "page": {
+    "ai": {
+      "crumb": "AI Sahayak",
+      "title": "AI Sahayak",
+      "desc": "Get simple-language legal information, guidance and the right next step for your question.",
+      "search": "Write your question here...",
+      "suggested": "Common questions",
+      "q1": "What should I do about my land documents?",
+      "q2": "Which documents are needed for inheritance?",
+      "q3": "What should I do after an online fraud?",
+      "q4": "How can I check eligibility for a government scheme?",
+      "tips": "Useful guidance",
+      "tip1": "Understand your legal rights",
+      "tip2": "Know required documents",
+      "tip3": "Find the right office",
+      "note": "AI Sahayak provides preliminary information. For final legal decisions, consult an authorised authority.",
+      "online": "Online",
+      "pill247": "24x7 Available",
+      "pillSimple": "Simple language",
+      "pillDocs": "Document information",
+      "pillGuide": "Right guidance",
+      "assistantLabel": "AI Sahayak",
+      "assistantSub": "For your questions",
+      "sideLegal": "Legal Information",
+      "sideLegalSub": "Understand in simple language",
+      "sideAsk": "Ask a Question",
+      "sideAskSub": "Based on your situation",
+      "loginRequired": "Please log in to use AI Sahayak.",
+      "error": "AI service is currently unavailable.",
+      "noteTitle": "Legal information & guidance"
+    },
+    "schemes": {
+      "crumb": "Government Schemes",
+      "title": "Government Schemes",
+      "desc": "Find suitable schemes for farmers, women, students, employment and social security.",
+      "search": "Search schemes...",
+      "all": "All",
+      "farmer": "Farmers",
+      "women": "Women",
+      "students": "Students",
+      "employment": "Employment",
+      "health": "Health",
+      "housing": "Housing",
+      "learn": "Learn more",
+      "s1": "PM-KISAN Samman Nidhi",
+      "s2": "Maharashtra Women Scheme",
+      "s3": "Scholarship Scheme",
+      "s4": "MGNREGA Scheme",
+      "s5": "Ayushman Bharat",
+      "s6": "PM Awas Yojana",
+      "help": "Need help finding a scheme?",
+      "helpAction": "Use AI Sahayak",
+      "pillCitizen": "Citizen Schemes",
+      "pillOnline": "Online Apply",
+      "pillEligibility": "Check Eligibility",
+      "pillBenefit": "Direct Benefit",
+      "assistantLabel": "Scheme Information",
+      "assistantSub": "Find the right benefit",
+      "searchButton": "Search"
+    },
+    "complaints": {
+      "crumb": "Complaints",
+      "title": "Register a Complaint",
+      "desc": "Your problem, our responsibility. Register a complaint and track its status.",
+      "new": "New complaint",
+      "track": "Track complaint",
+      "type": "Complaint type",
+      "select": "Select type",
+      "subject": "Complaint subject",
+      "details": "Brief complaint details",
+      "submit": "Register complaint",
+      "number": "Complaint number",
+      "trackPlaceholder": "Enter complaint number...",
+      "search": "Search",
+      "recent": "Recent complaints",
+      "c1": "Guidance on land measurement",
+      "c2": "Delay in certificate",
+      "c3": "Scheme benefit not received",
+      "status1": "In progress",
+      "status2": "Resolved",
+      "status3": "Pending",
+      "help": "Complaint help",
+      "helpText": "Save your complaint number and check for updates.",
+      "pillOnline": "Online Registration",
+      "pillTrack": "Track Status",
+      "pillResolve": "Resolution",
+      "pillFast": "Quick Response",
+      "assistantLabel": "Complaint Service",
+      "assistantSub": "Your voice matters",
+      "subjectExample": "e.g. Delay in receiving certificate",
+      "landProperty": "Land / Property",
+      "scheme": "Scheme",
+      "documents": "Documents",
+      "success": "Complaint submitted. Your Complaint ID:",
+      "loginRequired": "Please log in before submitting a complaint."
+    },
+    "documents": {
+      "crumb": "Documents",
+      "title": "Documents",
+      "desc": "Required documents, forms and guides for government applications in one place.",
+      "search": "Search documents...",
+      "all": "All documents",
+      "download": "Download",
+      "apply": "Application form",
+      "check": "Checklist",
+      "info": "Guide information",
+      "d1": "Land record extract",
+      "d2": "Inheritance certificate form",
+      "d3": "Income certificate form",
+      "d4": "Caste certificate form",
+      "d5": "Residence certificate form",
+      "d6": "Government scheme form",
+      "quick": "Quick help",
+      "q1": "Which document is needed?",
+      "q2": "How do I fill the form?",
+      "q3": "What is the fee?",
+      "q4": "Where should I submit it?",
+      "home": "Home",
+      "assistantLabel": "Documents",
+      "assistantSub": "Required information in one place",
+      "count": "6 documents",
+      "pdf": "PDF",
+      "searchButton": "Search",
+      "view": "View",
+      "noDocuments": "No documents available right now"
+    },
+    "offices": {
+      "crumb": "Offices",
+      "title": "Government Offices",
+      "desc": "Find nearby government offices and get useful contact information.",
+      "district": "Select district",
+      "taluka": "Select taluka",
+      "subDistrict": "Select sub-district",
+      "search": "Search",
+      "near": "Nearby offices",
+      "popular": "Popular offices",
+      "o1": "Tehsil Office",
+      "o2": "Zilla Parishad",
+      "o3": "Agriculture Officer",
+      "o4": "Police Station",
+      "o5": "Women & Child Development",
+      "o6": "District Legal Services Authority",
+      "address": "Maharashtra, India",
+      "timing": "Mon–Fri, 10:00–17:30",
+      "call": "Call",
+      "map": "View route",
+      "help": "Need more information?",
+      "helpline": "Legal help: 15100 • Cyber: 1930",
+      "home": "Home",
+      "pillSearch": "Find Services",
+      "pillMap": "Address & Map",
+      "pillServices": "Office Services",
+      "pillTime": "Hours & Information",
+      "assistantLabel": "Offices",
+      "assistantSub": "Reach the right place",
+      "pune": "Pune",
+      "nashik": "Nashik",
+      "nagpur": "Nagpur",
+      "haveli": "Haveli",
+      "mulshi": "Mulshi",
+      "count": "6",
+      "noOffices": "No offices found. Try another district or taluka.",
+      "openMap": "Open in Google Maps"
+    }
+  },
+  "homeReference": {
+    "scriptLeft": "Empowered Citizens",
+    "scriptLeftBold": "Stronger Rural India",
+    "scriptRight": "Legal Awareness",
+    "scriptRightBold": "Builds A Stronger Tomorrow",
+    "heroSubtitle": "AI-Based Legal & Financial Protection System for Rural Citizens",
+    "heroTag": "Right Information • Right Guidance • Right Time",
+    "askAi": "Ask AI Sahayak",
+    "askAiDesc": "Get instant guidance on legal, financial and government schemes",
+    "awareCitizen": "AWARE CITIZEN",
+    "safeCommunity": "SAFE COMMUNITY",
+    "prosperousIndia": "PROSPEROUS INDIA",
+    "explore": "Explore",
+    "services": {
+      "property": {
+        "title": "Property & Land",
+        "mr": "Land and property",
+        "desc": "Help with land records, ownership rights and property matters."
+      },
+      "legal": {
+        "title": "Legal Guidance",
+        "mr": "Legal guidance",
+        "desc": "Understand your rights and get guidance on legal matters."
+      },
+      "financial": {
+        "title": "Financial Safety",
+        "mr": "Financial safety",
+        "desc": "Learn about financial services, fraud prevention and safe transactions."
+      },
+      "schemes": {
+        "title": "Government Schemes",
+        "mr": "Government schemes",
+        "desc": "Find relevant schemes and benefits for rural citizens."
+      },
+      "documents": {
+        "title": "Document Assistance",
+        "mr": "Document assistance",
+        "desc": "Get help with documents, checklists and required processes."
+      },
+      "citizen": {
+        "title": "Citizen Support",
+        "mr": "Citizen support",
+        "desc": "File complaints, track progress and get support."
+      }
+    },
+    "common": {
+      "title": "Common Services",
+      "desc": "Quick access to frequently used services",
+      "items": {
+        "land": {
+          "en": "Land Records",
+          "mr": "Land records",
+          "title": "Land Records",
+          "sub": "Land Records"
+        },
+        "mutation": {
+          "en": "Mutation",
+          "mr": "Mutation",
+          "title": "Mutation",
+          "sub": "Mutation"
+        },
+        "certificates": {
+          "en": "Certificates",
+          "mr": "Certificates",
+          "title": "Certificates",
+          "sub": "Certificates"
+        },
+        "grievance": {
+          "en": "Grievance",
+          "mr": "Grievance",
+          "title": "Grievance",
+          "sub": "Grievance"
+        },
+        "schemes": {
+          "en": "Schemes",
+          "mr": "Schemes",
+          "title": "Schemes",
+          "sub": "Schemes"
+        }
+      }
+    },
+    "awareness": {
+      "line1": "Informed Citizens",
+      "line2": "Build a Stronger Rural India"
+    },
+    "why": {
+      "title": "Why WORKFORCE?",
+      "trusted": "Trusted legal & financial guidance",
+      "simple": "Simple and easy to use",
+      "multilingual": "Multilingual support (Marathi/Hindi/English)",
+      "verified": "Based on government information",
+      "community": "For a safer and stronger rural community"
+    },
+    "values": {
+      "accessible": {
+        "title": "Accessible",
+        "sub": "Every Village"
+      },
+      "inclusive": {
+        "title": "Inclusive",
+        "sub": "Every Citizen"
+      },
+      "transparent": {
+        "title": "Transparent",
+        "sub": "Every Process"
+      },
+      "empowered": {
+        "title": "Empowered",
+        "sub": "Stronger Rural India"
+      }
+    },
+    "scan": {
+      "title": "Scan to Know More",
+      "sub": "QR Information"
+    },
+    "together": {
+      "title": "Together",
+      "sub": "A Safer & Stronger India"
+    },
+    "mobileAi": "Ask your legal question",
+    "ask": "Ask",
+    "quickProperty": "Property & Land",
+    "quickPropertySub": "Land records and ownership help",
+    "quickLanguage": "Language support",
+    "quickLanguageSub": "Marathi • Hindi • English",
+    "quickDocuments": "Required documents",
+    "quickDocumentsSub": "Forms, checklists and guides"
+  },
+  "servicesPage": {
+    "badge": "Citizen Services",
+    "title": "Our Services",
+    "description": "Reliable guidance in simple language for your legal and financial needs, all in one place.",
+    "list": {
+      "eyebrow": "Service Sections",
+      "title": "Choose the right service for your need",
+      "description": "Find primary information and next steps from the sections below."
+    },
+    "learnMore": "Learn more",
+    "items": {
+      "property": {
+        "title": "Property Services",
+        "description": "Information about land, property, ownership rights and related documents."
+      },
+      "inheritance": {
+        "title": "Inheritance & Will",
+        "description": "Information about inheritance rights, wills and related procedures."
+      },
+      "consumer": {
+        "title": "Consumer Rights",
+        "description": "Consumer complaints, product/service disputes and required documents."
+      },
+      "cyberFraud": {
+        "title": "Digital / Cyber Fraud",
+        "description": "Immediate steps, complaints and guidance after fraud."
+      },
+      "agreements": {
+        "title": "Agreements",
+        "description": "Agreement types, important points and document information."
+      },
+      "schemes": {
+        "title": "Government Schemes",
+        "description": "Information on schemes for farmers, women, students, employment and more."
+      },
+      "documents": {
+        "title": "Documents",
+        "description": "Information about government applications, certificates and required documents."
+      },
+      "offices": {
+        "title": "Offices",
+        "description": "Find nearby government offices, address, timings and contact details."
+      }
+    },
+    "cta": {
+      "title": "Get instant help from AI Sahayak",
+      "description": "Ask your question in simple language and understand the next possible steps.",
+      "action": "Start AI Sahayak"
+    },
+    "searchButton": "Find service",
+    "searchPlaceholder": "Search service, department or keyword...",
+    "sidebarTitle": "Service departments",
+    "sidebarAiTitle": "Can’t find the service you need?",
+    "sidebarAiText": "Ask AI Sahayak and find the right service.",
+    "sidebarAiAction": "Use AI Sahayak",
+    "popularTitle": "Popular services",
+    "available": "services available",
+    "sidebar": {
+      "all": "All services",
+      "farmer": "Agriculture & Farmers",
+      "women": "Women & Child Welfare",
+      "education": "Education & Employment",
+      "health": "Health & Family Welfare",
+      "business": "Industry & Business",
+      "land": "Land & Revenue",
+      "social": "Social Security",
+      "other": "Other"
+    }
+  },
+  "auth": {
+    "login": "Log in",
+    "signup": "Sign up",
+    "passwordLogin": "Login with password",
+    "otpLogin": "Login with OTP",
+    "mobileEmail": "Mobile number / Email",
+    "mobileEmailPlaceholder": "Mobile number or email",
+    "password": "Password",
+    "passwordPlaceholder": "Enter password",
+    "otp": "OTP",
+    "name": "Full name",
+    "namePlaceholder": "Enter your full name",
+    "mobile": "Mobile number",
+    "email": "Email",
+    "profileImage": "Profile photo",
+    "chooseImage": "Choose image",
+    "sendOtp": "Send OTP",
+    "verifyOtp": "Verify OTP",
+    "sendSignupOtp": "Send OTP & continue signup",
+    "verifySignup": "Verify OTP & complete signup",
+    "pleaseWait": "Please wait...",
+    "security": "Your information is handled securely.",
+    "required": "Please fill all required information.",
+    "profileRequired": "Choose a profile photo to sign up.",
+    "tagline": "Legal and government assistance in simple language",
+    "age": "Age",
+    "agePlaceholder": "Enter your age",
+    "gender": "Gender",
+    "genderSelect": "Select gender",
+    "male": "Male",
+    "female": "Female",
+    "other": "Other",
+    "confirmPassword": "Confirm password",
+    "confirmPasswordPlaceholder": "Re-enter your password",
+    "passwordMismatch": "Passwords do not match.",
+    "ageInvalid": "Age must be between 18 and 120.",
+    "genderRequired": "Please select your gender.",
+    "forgotPassword": "Forgot Password?",
+    "resetPassword": "Reset Password",
+    "newPassword": "New password",
+    "sendResetOtp": "Send OTP",
+    "verifyReset": "Verify & Reset Password",
+    "backToLogin": "Back to Login",
+    "resetSent": "OTP sent. Enter the OTP and your new password.",
+    "resetSuccess": "Password reset successfully. Please log in.",
+    "signupIntro": "Create your account",
+    "iWantTo": "I want to…",
+    "hireWorkers": "I want a Worker",
+    "workForCustomers": "I want to Work",
+    "loginIntro": "Your Guide for a Better Tomorrow",
+    "legalFinancial": "AI-Based Legal & Financial Protection System for Rural Citizens",
+    "otpLoginReference": "Login with OTP • OTP via mobile",
+    "noAccount": "Don't have account?",
+    "joinAsCustomer": "Join as a Customer",
+    "joinAsWorker": "Join as a Worker",
+    "loginRequired": "Please login to save workers."
+  },
+  "profile": {
+    "title": "My Profile",
+    "welcome": "Welcome",
+    "save": "Save changes",
+    "saved": "Profile saved.",
+    "imageSaved": "Profile photo updated.",
+    "logout": "Log out"
+  },
+  "propertyPage": {
+    "badge": "Property & Land Assistance",
+    "title": "Property and Land",
+    "description": "Understand preliminary information about ownership, land records, boundaries, sale and related property matters.",
+    "problem": {
+      "eyebrow": "What is your problem?",
+      "title": "Choose your property problem",
+      "description": "Select the issue that best matches your situation to understand the next possible step.",
+      "selected": "Selected problem",
+      "askAI": "Ask AI Sahayak",
+      "items": {
+        "ownership": {
+          "title": "Ownership rights",
+          "description": "Understand basic information about ownership and related records."
+        },
+        "landRecord": {
+          "title": "Land records",
+          "description": "Get guidance on checking land records and important entries."
+        },
+        "boundary": {
+          "title": "Boundary issue",
+          "description": "Understand preliminary steps for a land boundary or measurement issue."
+        },
+        "sale": {
+          "title": "Sale or transfer",
+          "description": "Learn about basic documents and precautions for property transfer."
+        }
+      }
+    },
+    "documents": {
+      "eyebrow": "Required Documents",
+      "title": "Documents you may need",
+      "description": "Keep the relevant identity, property and land records ready for the next step.",
+      "note": "Document requirements can vary by case and authority. Confirm the current list with the concerned office.",
+      "items": {
+        "propertyDocument": {
+          "title": "Property document",
+          "description": "Keep available the relevant property ownership or transfer document."
+        },
+        "identityProof": {
+          "title": "Identity proof",
+          "description": "A valid identity document may be required for applications."
+        },
+        "taxReceipt": {
+          "title": "Tax receipt",
+          "description": "Recent property or land tax receipts may be useful."
+        },
+        "landRecord": {
+          "title": "Land record",
+          "description": "Keep the latest available land record or extract."
+        }
+      }
+    },
+    "steps": {
+      "eyebrow": "Next Steps",
+      "title": "What should you do next?",
+      "description": "A simple preliminary path for handling a property-related issue.",
+      "items": {
+        "identify": {
+          "title": "Identify the issue",
+          "description": "Understand the exact property or land issue and collect the relevant details."
+        },
+        "collect": {
+          "title": "Collect documents",
+          "description": "Keep the relevant records, identity proof and receipts ready."
+        },
+        "contact": {
+          "title": "Contact the right office",
+          "description": "Use the Offices section to find the concerned government authority."
+        }
+      }
+    },
+    "office": {
+      "title": "Need help finding the right office?",
+      "description": "Find the concerned government office and check address, contact details and map information.",
+      "action": "Find an Office"
+    },
+    "cta": {
+      "title": "Need help understanding your property issue?",
+      "description": "Ask AI Sahayak for preliminary information and possible next steps.",
+      "action": "Ask AI Sahayak"
+    }
+  },
+  "inheritancePage": {
+    "badge": "Inheritance & Will Support",
+    "title": "Inheritance and Will",
+    "description": "Understand basic information about inheritance rights, wills, legal heirs and family property processes.",
+    "problem": {
+      "eyebrow": "What is your problem?",
+      "title": "Select your inheritance problem",
+      "description": "Select the issue that matches your situation and understand the possible next step.",
+      "selected": "Selected problem",
+      "askAI": "Ask AI Sahayak",
+      "items": {
+        "will": {
+          "title": "I have a will",
+          "description": "Understand the basic process for using a will and related documents."
+        },
+        "noWill": {
+          "title": "There is no will",
+          "description": "Learn the basic information about succession when there is no will."
+        },
+        "familyProperty": {
+          "title": "Family property",
+          "description": "Understand basic information about division and rights in family property."
+        },
+        "legalHeir": {
+          "title": "Legal heir",
+          "description": "Learn about basic documents and steps that may be needed to establish legal heir details."
+        }
+      }
+    },
+    "documents": {
+      "eyebrow": "Required documents",
+      "title": "Documents you may need",
+      "description": "Keep relevant identity, relationship, death and property records ready for the next step.",
+      "note": "Document requirements can vary by case and office. Confirm the current list with the concerned authority.",
+      "items": {
+        "deathCertificate": {
+          "title": "Death certificate",
+          "description": "Keep the applicable death certificate available when required."
+        },
+        "identityProof": {
+          "title": "Identity proof",
+          "description": "A valid identity document may be required for the application."
+        },
+        "relationshipProof": {
+          "title": "Relationship proof",
+          "description": "Keep documents that support the relationship between the heirs and the deceased."
+        },
+        "propertyDocuments": {
+          "title": "Property documents",
+          "description": "Keep available property, land or ownership records related to the matter."
+        }
+      }
+    },
+    "steps": {
+      "eyebrow": "Next steps",
+      "title": "What should you do now?",
+      "description": "A simple preliminary path for an inheritance-related matter.",
+      "items": {
+        "collect": {
+          "title": "Collect documents",
+          "description": "Collect identity, relationship, death and property records that may apply."
+        },
+        "identifyHeirs": {
+          "title": "Identify the heirs",
+          "description": "List the people who may have a legal interest in the estate."
+        },
+        "verifyProperty": {
+          "title": "Verify the property",
+          "description": "Check the relevant ownership, land and property records."
+        },
+        "completeProcess": {
+          "title": "Complete the process",
+          "description": "Contact the appropriate office and complete the applicable formalities."
+        }
+      }
+    },
+    "office": {
+      "title": "Want to find the right office?",
+      "description": "Find the address, contact details and map information for the concerned government office.",
+      "action": "Find an office"
+    },
+    "cta": {
+      "title": "Need help understanding an inheritance matter?",
+      "description": "Ask AI Sahayak for preliminary information and possible next steps.",
+      "action": "Ask AI Sahayak"
+    }
+  },
+  "admin": {
+    "nav": {
+      "dashboard": "Dashboard",
+      "complaints": "Complaints",
+      "users": "Users",
+      "documents": "Documents",
+      "offices": "Offices",
+      "schemes": "Government Schemes",
+      "ai": "AI Sahayak",
+      "analytics": "Analytics",
+      "settings": "Settings"
+    },
+    "header": {
+      "search": "Search complaints, users, or documents...",
+      "notifications": "Notifications"
+    },
+    "profile": {
+      "settings": "Profile / Settings",
+      "logout": "Log out"
+    },
+    "common": {
+      "refresh": "Refresh",
+      "viewAll": "View all",
+      "loading": "Loading...",
+      "noComplaints": "No complaints yet.",
+      "allStatus": "All status",
+      "search": "Search",
+      "save": "Save",
+      "saving": "Saving...",
+      "cancel": "Cancel",
+      "openModule": "Open module"
+    },
+    "dashboard": {
+      "eyebrow": "Administration Panel",
+      "title": "Good morning, Admin!",
+      "subtitle": "Welcome to the WORKFORCE administration panel.",
+      "complaintFlow": "Complaint flow",
+      "realData": "Based on live MongoDB data",
+      "status": "Complaint status",
+      "recent": "Recent complaints",
+      "latest": "Latest citizen requests",
+      "quickActions": "Quick actions",
+      "systemLive": "System and database connection is active"
+    },
+    "stats": {
+      "complaints": "Total complaints",
+      "users": "Registered users",
+      "offices": "Government offices",
+      "documents": "Documents"
+    },
+    "status": {
+      "pending": "Pending",
+      "processing": "Processing",
+      "resolved": "Resolved",
+      "rejected": "Rejected",
+      "active": "Active",
+      "inactive": "Inactive",
+      "blocked": "Blocked",
+      "published": "Published",
+      "draft": "Draft",
+      "archived": "Archived"
+    },
+    "quick": {
+      "complaints": "Manage complaints",
+      "users": "Manage users",
+      "documents": "Manage documents",
+      "offices": "Manage offices"
+    },
+    "users": {
+      "title": "User Management",
+      "subtitle": "Manage real users from MongoDB.",
+      "search": "Search name, email or mobile...",
+      "empty": "No users found",
+      "profile": "Profile",
+      "mobile": "Mobile",
+      "email": "Email",
+      "role": "Role",
+      "status": "Status",
+      "registered": "Registered",
+      "actions": "Actions",
+      "activate": "Activate",
+      "block": "Block",
+      "delete": "Delete",
+      "confirmStatus": "Are you sure you want to change this user's status?",
+      "confirmDelete": "Delete this user permanently?"
+    },
+    "documents": {
+      "title": "Document Management",
+      "subtitle": "Manage real documents stored in MongoDB GridFS.",
+      "add": "Add Document",
+      "edit": "Edit Document",
+      "search": "Search documents...",
+      "empty": "No documents available yet",
+      "titleCol": "Title",
+      "category": "Category",
+      "language": "Language",
+      "status": "Status",
+      "file": "File",
+      "actions": "Actions",
+      "download": "Download",
+      "published": "Published",
+      "draft": "Draft",
+      "archived": "Archived",
+      "confirmDelete": "Delete this document?",
+      "fileRequired": "Title and file are required.",
+      "form": {
+        "title": "Title",
+        "description": "Description",
+        "category": "Category",
+        "type": "Document type",
+        "language": "Language",
+        "status": "Status",
+        "file": "File upload",
+        "thumbnail": "Thumbnail / image"
+      },
+      "fileTooLarge": "File size must be 15 MB or less."
+    },
+    "complaints": {
+      "title": "Complaint Management",
+      "subtitle": "View and act on real complaints from MongoDB.",
+      "search": "Search complaints...",
+      "subject": "Subject",
+      "citizen": "Citizen",
+      "status": "Status",
+      "remark": "Remark / reply",
+      "action": "Action"
+    },
+    "offices": {
+      "title": "Government Offices",
+      "subtitle": "Manage real offices stored in MongoDB.",
+      "add": "Add Office",
+      "edit": "Edit Office",
+      "search": "Search offices...",
+      "empty": "No offices available yet",
+      "name": "Office name",
+      "district": "District",
+      "subDistrict": "Sub-district / Taluka",
+      "address": "Address",
+      "actions": "Actions",
+      "confirmDelete": "Delete this office?"
+    },
+    "analytics": {
+      "title": "Analytics",
+      "subtitle": "Statistics based on real MongoDB data.",
+      "complaints": "Daily complaint flow",
+      "users": "User registration",
+      "status": "Complaint status"
+    },
+    "settings": {
+      "title": "Admin Settings",
+      "subtitle": "Manage your administrator account and session.",
+      "role": "Role"
+    },
+    "schemes": {
+      "title": "Government Schemes",
+      "subtitle": "Schemes module",
+      "emptyTitle": "Government Schemes",
+      "empty": "Real scheme management data can be shown here when available from the backend."
+    },
+    "ai": {
+      "title": "AI Sahayak",
+      "subtitle": "AI service and usage monitoring",
+      "emptyTitle": "AI Sahayak",
+      "empty": "Open the existing AI module to use the live AI flow."
+    }
+  },
+  "customer": {
+    "nav": {
+      "home": "Home",
+      "findWorkers": "Find Workers",
+      "postRequirement": "Post Requirement",
+      "bookings": "Bookings",
+      "messages": "Messages",
+      "workguide": "WorkGuide",
+      "workerRequests": "Worker Requests",
+      "helpSupport": "Help & Support"
+    },
+    "profile": "Profile",
+    "notifications": "Notifications",
+    "menu": "More",
+    "hero": {
+      "kicker": "Verified local workforce",
+      "title": "Find Skilled Workers",
+      "title2": "for Your Work",
+      "description": "Verified professionals for your events, business and daily needs. Fast. Safe. Reliable.",
+      "category": "Select Category",
+      "location": "Select Location",
+      "search": "Search",
+      "popularTitle": "Popular Categories",
+      "popularDesc": "Choose from a wide range of services and find the right professional.",
+      "viewCategories": "View All Categories",
+      "trusted": "Trusted by Thousands",
+      "trustedSub": "Building stronger communities together",
+      "verifiedWorkers": "Verified Workers",
+      "jobsCompleted": "Jobs Completed",
+      "userRating": "User Rating",
+      "support": "Direct Support",
+      "workersNear": "Popular Workers Near You",
+      "workersNearDesc": "Top rated and verified professionals in your area.",
+      "viewWorkers": "View All Workers",
+      "aiTitle": "Need help finding the right worker?",
+      "aiDesc": "WorkGuide can understand your requirement and guide you to suitable workers.",
+      "openGuide": "Open WorkGuide",
+      "benefits": {
+        "verified": "Verified Professionals",
+        "verifiedSub": "Background checked",
+        "secure": "Secure Booking",
+        "secureSub": "Safe & hassle-free",
+        "support": "Direct Support",
+        "supportSub": "We are here to help",
+        "categories": "Multiple Categories",
+        "categoriesSub": "For all your needs"
+      },
+      "viewAll": "View All",
+      "favoriteAdded": "Worker added to favorites",
+      "favoriteRemoved": "Worker removed from favorites",
+      "favoriteFailed": "Unable to update favorite",
+      "noWorkers": "No verified workers available right now."
+    },
+    "findWorkers": {
+      "title": "Find Workers",
+      "subtitle": "Search verified workers by category, skill, location, experience and availability.",
+      "filterTitle": "Search & Filter",
+      "searchWorker": "Search worker",
+      "searchPlaceholder": "Skill, name or keyword",
+      "category": "Category",
+      "location": "Location",
+      "experience": "Experience",
+      "sort": "Sort",
+      "verifiedOnly": "Verified only",
+      "searchButton": "Search Workers",
+      "found": "workers found",
+      "resultNote": "Based on your selected filters",
+      "bestMatch": "Best Match",
+      "nearest": "Nearest",
+      "topRated": "Top Rated",
+      "verified": "Verified",
+      "chatAI": "Chat with AI",
+      "viewProfile": "View Profile",
+      "postRequirement": "Post Requirement",
+      "empty": "No workers match these filters.",
+      "online": "Online",
+      "aiHelp": "Tell me what work you need. I can suggest suitable categories and verified workers.",
+      "example": "Example",
+      "exampleText": "I need 3 catering workers in Pune for a wedding.",
+      "askGuide": "Ask WorkGuide",
+      "categoryOptions": {
+        "all": "All Categories",
+        "chef": "Chef",
+        "electrician": "Electrician",
+        "plumber": "Plumber",
+        "carpenter": "Carpenter",
+        "cleaning": "Cleaning",
+        "decorator": "Decorator"
+      },
+      "locationOptions": {
+        "all": "All Locations"
+      },
+      "experienceOptions": {
+        "any": "Any Experience",
+        "1": "1+ years",
+        "3": "3+ years",
+        "5": "5+ years"
+      },
+      "sortOptions": {
+        "best": "Best Match",
+        "nearest": "Nearest",
+        "topRated": "Top Rated"
+      }
+    },
+    "messages": {
+      "title": "Messages",
+      "subtitle": "Communicate with workers and discuss work details before booking.",
+      "search": "Search messages...",
+      "startChat": "Start a conversation",
+      "online": "Online",
+      "phoneHint": "Phone details are shared after booking",
+      "videoHint": "Video call",
+      "contactAfterBooking": "Contact details are shared after booking.",
+      "videoSoon": "Video calling will be available in a later release.",
+      "profile": "Profile",
+      "verifiedWorker": "Verified Worker",
+      "profession": "Profession",
+      "location": "Location",
+      "experience": "Experience",
+      "rating": "Rating",
+      "viewProfile": "View Profile",
+      "attach": "Attach file",
+      "placeholder": "Type a message...",
+      "send": "Send message",
+      "call": "Call",
+      "video": "Video",
+      "sent": "Message sent",
+      "fileAttached": "Attached {{name}}",
+      "seed": {
+        "available": "I am available for the event.",
+        "location": "Pune, Baner. Available from 8 AM to 6 PM.",
+        "details": "Please share the work details.",
+        "confirm": "I can confirm the booking after discussing the work details.",
+        "timing": "I can discuss the work timing with you."
+      }
+    },
+    "workguide": {
+      "title": "WorkGuide",
+      "subtitle": "AI assistance for worker search, requirements and booking guidance.",
+      "assistant": "WorkGuide AI Assistant",
+      "online": "Online · English / Marathi / Hindi",
+      "placeholder": "Ask WorkGuide...",
+      "welcome": "Hello! I’m WorkGuide. Tell me what work you need and I’ll help you choose a category, skills and booking steps.",
+      "fallback": "I can help with that. For an actual worker recommendation, I’ll use verified workers available in your selected location. You can start with Find Workers or Post Requirement.",
+      "what": "What can I do?",
+      "find": "Find Worker",
+      "team": "Build a Team",
+      "booking": "Booking Guidance",
+      "messages": "Messages",
+      "findButton": "Find Workers"
+    },
+    "post": {
+      "title": "Post Requirement",
+      "subtitle": "Tell us what work you need. Your requirement can be for one worker or a complete team.",
+      "category": "Category *",
+      "skills": "Required skills",
+      "workers": "Number of workers *",
+      "startDate": "Start date *",
+      "endDate": "End date",
+      "startTime": "Start time",
+      "endTime": "End time",
+      "location": "Location / Locality *",
+      "district": "District",
+      "taluka": "Taluka",
+      "description": "Description *",
+      "special": "Special requirements",
+      "descriptionPlaceholder": "Example: Need 5 catering workers for a wedding function. Please mention timing, duties and important details.",
+      "specialPlaceholder": "Language, dress code, experience, transport or other requirements...",
+      "save": "Save Draft",
+      "submit": "Post Requirement",
+      "success": "Requirement saved successfully. Matching workers can now be searched from Find Workers.",
+      "options": {
+        "security": "Security",
+        "single": "Single",
+        "flexible": "Flexible",
+        "local": "Local"
+      },
+      "skillsPlaceholder": "e.g. Cook, Server, Mason",
+      "locationPlaceholder": "e.g. Baner, Pune",
+      "talukaPlaceholder": "Select taluka",
+      "draftSaved": "Draft saved successfully."
+    },
+    "bookings": {
+      "title": "Bookings",
+      "subtitle": "View and manage your current and past worker bookings.",
+      "ongoing": "Ongoing Bookings",
+      "completed": "Completed Bookings",
+      "all": "All Dates",
+      "viewMessages": "Messages",
+      "viewProfile": "View Profile",
+      "days": "{{count}} days",
+      "amountDiscussed": "Amount discussed",
+      "summary": "Booking Summary",
+      "total": "Total bookings",
+      "message": "Message",
+      "empty": "No bookings found.",
+      "refresh": "Refresh",
+      "refreshMessage": "Bookings are up to date.",
+      "status": {
+        "ongoing": "Ongoing",
+        "completed": "Completed",
+        "pending": "Pending",
+        "confirmed": "Confirmed",
+        "active": "Active",
+        "cancelled": "Cancelled"
+      },
+      "loading": "Loading bookings…",
+      "loadError": "Bookings could not be loaded. Please try again.",
+      "tryAgain": "Try Again",
+      "findWorkers": "Find Workers",
+      "worker": "Worker"
+    },
+    "footer": {
+      "tagline": "Empowering People • Building Stronger Communities",
+      "description": "Find trusted workers, discuss work details and manage bookings in one place.",
+      "forCustomers": "For Customers",
+      "forWorkers": "For Workers",
+      "company": "Company",
+      "support": "Help & Support",
+      "workWithUs": "Work with us",
+      "rights": "All rights reserved.",
+      "country": "India",
+      "language": "Language",
+      "slogan": "Find. Book. Work. Grow.",
+      "raiseTicket": "Raise a ticket"
+    },
+    "login": "Login",
+    "categories": {
+      "festival": "Festival",
+      "marriage": "Marriage",
+      "hotel": "Hotel",
+      "function": "Function",
+      "event": "Event",
+      "catering": "Catering",
+      "dailyLabour": "Daily Labour",
+      "teacher": "Teacher",
+      "mechanic": "Mechanic",
+      "construction": "Construction",
+      "cleaning": "Cleaning",
+      "electrician": "Electrician"
+    },
+    "worker": {
+      "nav": {
+        "home": "Home",
+        "findWork": "Find Work",
+        "bookings": "Bookings",
+        "profile": "Profile",
+        "help": "Help",
+        "applications": "Applications",
+        "messages": "Messages",
+        "workguide": "WorkGuide",
+        "notifications": "Notifications"
+      }
+    },
+    "profilePage": {
+      "notFound": "Worker not found",
+      "back": "Back to Find Workers",
+      "reviews": "124 reviews",
+      "about": "About",
+      "skills": "Skills",
+      "verification": "Verification",
+      "verified": "Profile verified",
+      "rate": "Rate",
+      "discuss": "Discuss in Messages",
+      "professional": "Professional",
+      "reviewsShort": "reviews",
+      "yearsExperience": "years experience"
+    },
+    "supportTicket": {
+      "badge": "WORKFORCE SUPPORT",
+      "title": "Help & Support",
+      "subtitle": "Get help with bookings, applications, messages, verification and account access.",
+      "call": "Call Support",
+      "email": "Email Support",
+      "notConfigured": "Support contact not configured",
+      "raise": "Raise Support Ticket",
+      "raiseHint": "Create a ticket for the support team. It will appear in Admin Complaints.",
+      "createdTitle": "Support ticket raised",
+      "ticketId": "Ticket ID",
+      "adminNote": "The support team can review and update this ticket from Admin Complaints.",
+      "indiaTitle": "WORKFORCE India",
+      "generalHint": "For account, worker verification, booking or requirement support, use the options above.",
+      "formTitle": "Raise Support Ticket",
+      "formSubtitle": "Tell us what you need help with. This form opens only after you click Raise Support Ticket.",
+      "subject": "Subject",
+      "subjectPlaceholder": "Enter your issue subject",
+      "category": "Category",
+      "general": "General",
+      "booking": "Booking",
+      "application": "Application",
+      "verification": "Verification",
+      "account": "Account",
+      "description": "Description",
+      "descriptionPlaceholder": "Describe your issue in detail...",
+      "submit": "Raise Ticket",
+      "sending": "Raising Ticket...",
+      "required": "Please enter both subject and description.",
+      "created": "Support ticket raised successfully.",
+      "failed": "Unable to raise support ticket."
+    },
+    "mobile": {
+      "searchPlaceholder": "Search jobs, skills or keywords...",
+      "location": "Select Location",
+      "search": "Search Jobs",
+      "workersTitle": "Popular Workers Near You",
+      "workersSub": "Top rated and verified professionals in your area.",
+      "viewAll": "View All",
+      "verified": "Verified",
+      "profile": "View Profile",
+      "reviews": "reviews",
+      "noWorkers": "No verified workers available right now."
+    }
+  },
+  "worker": {
+    "nav": {
+      "helpSupport": "Help & Support"
+    },
+    "dashboard": {
+      "hello": "Hello",
+      "worker": "Worker",
+      "availability": {
+        "available": "Available",
+        "busy": "Busy",
+        "unavailable": "Unavailable"
+      },
+      "verifiedWorker": "Verified Worker",
+      "verificationPending": "Verification Pending",
+      "profilePhoto": "Profile photo",
+      "reviews": "reviews",
+      "completedJobs": "Completed Jobs",
+      "skillsFuture": "Your Skills. Your Future.",
+      "findBetter": "Find Better",
+      "workOpportunities": "Work Opportunities",
+      "growCareer": "Get connected with trusted employers and grow your career.",
+      "findWork": "Find Work",
+      "availableJobs": "Available Jobs Near You",
+      "availableJobsSub": "New opportunities based on your skills and location.",
+      "viewAll": "View All",
+      "loadingJobs": "Loading jobs...",
+      "noJobs": "No open jobs are available right now.",
+      "new": "New",
+      "locationMissing": "Location not specified",
+      "dateMissing": "Date to be confirmed",
+      "applyNow": "Apply Now",
+      "workRequirement": "Work requirement",
+      "verificationStatus": "Verification Status",
+      "verifiedMessage": "Your profile is verified and ready for work opportunities.",
+      "pendingMessage": "Your documents are under review. You will be notified soon.",
+      "viewDocuments": "View Documents",
+      "desktopHeroTitle1": "Find Your Next",
+      "desktopHeroTitle2": "Opportunity",
+      "desktopHeroWith": "with WORKFORCE",
+      "desktopHeroDesc": "Discover verified job opportunities, connect with trusted customers, and build a better future.",
+      "quickAccess": "Quick Access",
+      "quickDesc": "Explore your services and tools to help you grow.",
+      "viewCategories": "View All Categories",
+      "findJobs": "Find Jobs",
+      "myBookings": "My Bookings",
+      "applications": "Applications",
+      "messages": "Messages",
+      "workguide": "WorkGuide",
+      "profile": "Profile",
+      "helpSupport": "Help & Support",
+      "settings": "Settings",
+      "recommendedJobs": "Recommended Jobs",
+      "recommendedDesc": "Live job opportunities based on your profile and skills.",
+      "viewAllJobs": "View All Jobs",
+      "customer": "Customer",
+      "amountInMessages": "Amount discussed in Messages",
+      "workersNeeded": "workers needed",
+      "verified": "Verified",
+      "saveJob": "Save job",
+      "viewJob": "View Job",
+      "workerTitle": "WORKFORCE Worker",
+      "workerSub": "Stay available, respond quickly and keep your profile verified.",
+      "activeBookings": "Active bookings",
+      "userRating": "User rating",
+      "quick": {
+        "findWork": "Find Work",
+        "applications": "My Applications",
+        "bookings": "Bookings",
+        "messages": "Messages",
+        "notifications": "Notifications"
+      },
+      "quickSub": {
+        "findWork": "Explore available",
+        "applications": "Track applications",
+        "bookings": "Manage bookings",
+        "messages": "Chat with customers",
+        "notifications": "Stay updated"
+      }
+    }
+  }
+}
