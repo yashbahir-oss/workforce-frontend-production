@@ -24,7 +24,7 @@ import { authApi, fileUrl, notificationApi } from "../../lib/api";
 import WorkforceFooter from "../../components/layout/WorkforceFooter";
 import ThemeToggle from "../../components/ui/ThemeToggle";
 {
-  /* key'profile */
+  
 }
 const links = [
   ["/worker", "home", Home],
@@ -187,7 +187,7 @@ export default function WorkerLayout() {
                     to="/worker/profile"
                     onClick={() => setProfileOpen(false)}
                   >
-                    <UserCircle size={15} /> My Profile
+                    <UserCircle size={18} /> My Profile
                   </Link>
                   <button type="button" onClick={() => void logout()}>
                     <span>↪</span> Logout
@@ -195,14 +195,14 @@ export default function WorkerLayout() {
                 </div>
               )}
             </div>
-            <button
+            {/* <button
               className={twClass("wf-menu-toggle")}
               type="button"
               onClick={() => setOpen((v) => !v)}
               aria-label="Menu"
             >
               {open ? <X size={23} /> : <Menu size={23} />}
-            </button>
+            </button> */}
           </div>
         </div>
         {open && (
@@ -263,7 +263,7 @@ export default function WorkerLayout() {
       <WorkforceFooter mode="worker" />
       <nav
         className={twClass(
-          "fixed inset-x-0 bottom-0 z-95 grid h-14.5 grid-cols-5 border-t border-slate-200 bg-white/95 px-1.5 pb-[env(safe-area-inset-bottom)] shadow-[0_-6px_20px_rgba(9,55,87,.12)] backdrop-blur md:hidden",
+          "fixed inset-x-0 bottom-0 z-95 grid h-14 grid-cols-5 border-t border-slate-200 bg-white/95 px-1.5 pb-[env(safe-area-inset-bottom)] shadow-[0_-6px_20px_rgba(9,55,87,.12)] backdrop-blur md:hidden",
         )}
         aria-label="Worker mobile navigation"
       >
@@ -305,7 +305,7 @@ export default function WorkerLayout() {
             {t("bookings")}
           </span>
         </NavLink>
-        <NavLink
+        {/* <NavLink
           to="/worker/profile"
           className={({ isActive }) =>
             twClass(
@@ -315,7 +315,9 @@ export default function WorkerLayout() {
         >
           <UserCircle size={18} />
           <span className={twClass("max-w-full truncate")}>{"profile"}</span>
-        </NavLink>
+        </NavLink> */}
+
+
         <NavLink
           to="/worker/messages"
           className={({ isActive }) =>
@@ -329,6 +331,18 @@ export default function WorkerLayout() {
             {t("messages")}
           </span>
         </NavLink>
+
+        <button
+              // className={twClass("wf-menu-toggle")}
+               className={twClass(
+            "flex min-w-0 flex-col items-center justify-center gap-0.5 border-0 bg-transparent text-[7px] font-black text-slate-500",
+          )}
+              type="button"
+              onClick={() => setOpen((v) => !v)}
+              aria-label="Menu"
+            >
+              {open ? <X size={23} /> : <Menu size={23} />}
+            </button>
       </nav>
     </div>
   );

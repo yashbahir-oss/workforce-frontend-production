@@ -157,7 +157,7 @@ export default function WorkforceLayout() {
             </div>
             <Link
               to={token ? "/profile" : "/login"}
-              className={twClass("wf-user-chip !flex sm:flex")}
+              className={twClass("wf-user-chip flex! sm:flex")}
             >
               <span className={twClass("wf-user-avatar")}>
                 {token && user?.profileImage ? (
@@ -172,14 +172,14 @@ export default function WorkforceLayout() {
               </span>
               <ChevronDown className={twClass("hidden sm:block")} size={14} />
             </Link>
-            <button
+            {/* <button
               className={twClass("wf-menu-toggle")}
               type="button"
               onClick={() => setOpen((v) => !v)}
               aria-label="Menu"
             >
               {open ? <X size={23} /> : <Menu size={23} />}
-            </button>
+            </button> */}
           </div>
         </div>
         {open && (
@@ -219,7 +219,7 @@ export default function WorkforceLayout() {
       <WorkforceFooter />
       <nav
         className={twClass(
-          "fixed inset-x-0 bottom-0 z-[95] grid h-[58px] grid-cols-5 border-t border-slate-200 bg-white/95 px-1.5 pb-[env(safe-area-inset-bottom)] shadow-[0_-6px_20px_rgba(9,55,87,.12)] backdrop-blur md:hidden",
+          "fixed inset-x-0 bottom-0 z-95 grid h-14.5 grid-cols-5 border-t border-slate-200 bg-white/95 px-1.5 pb-[env(safe-area-inset-bottom)] shadow-[0_-6px_20px_rgba(9,55,87,.12)] backdrop-blur md:hidden",
         )}
         aria-label="Customer mobile navigation"
       >
