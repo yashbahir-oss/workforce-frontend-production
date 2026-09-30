@@ -9,7 +9,7 @@ import {
   Home,
   Menu,
   Users,
-  X,
+  
   Bot,
   UserCircle,
   PlusCircle,
