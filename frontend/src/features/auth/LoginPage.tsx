@@ -20,7 +20,7 @@ import RoleSelector, {
 import ThemeToggle from "../../components/ui/ThemeToggle";
 import { useAuthStore } from "./auth.store";
 import WorkerSelfieCamera from "./WorkerSelfieCamera";
-
+//feedback
 type Mode = "login" | "signup" | "forgot";
 type LoginMethod = "password" | "otp";
 
@@ -470,9 +470,36 @@ export default function LoginPage() {
 }
 
 type FormProps = Record<string, any>;
+// function Feedback({ error, notice, devOtp }: FormProps) {
+//   return (
+//     <>
+//       {error && (
+//         <div
+//           className={twClass(
+//             "rounded-xl border border-red-200 bg-red-50 px-3 py-2 text-sm font-semibold text-red-700",
+//           )}
+//         >
+//           {error}
+//         </div>
+//       )}
+//       {notice && (
+//         <div
+//           className={twClass(
+//             "rounded-xl border border-emerald-200 bg-emerald-50 px-3 py-2 text-sm font-semibold text-emerald-800",
+//           )}
+//         >
+//           {notice}
+//           {devOtp && (
+//             <span className={twClass("ml-2 font-black")}>OTP: {devOtp}</span>
+//           )}
+//         </div>
+//       )}
+//     </>
+//   );
+// }
 function Feedback({ error, notice, devOtp }: FormProps) {
   return (
-    <>
+    <div className={twClass("grid gap-3")}>
       {error && (
         <div
           className={twClass(
@@ -482,6 +509,7 @@ function Feedback({ error, notice, devOtp }: FormProps) {
           {error}
         </div>
       )}
+
       {notice && (
         <div
           className={twClass(
@@ -489,12 +517,37 @@ function Feedback({ error, notice, devOtp }: FormProps) {
           )}
         >
           {notice}
-          {devOtp && (
-            <span className={twClass("ml-2 font-black")}>OTP: {devOtp}</span>
-          )}
         </div>
       )}
-    </>
+
+      {devOtp && (
+        <div
+          className={twClass(
+            "rounded-2xl border-2 border-amber-300 bg-amber-50 px-4 py-4 text-center shadow-sm",
+          )}
+        >
+          <p
+            className={twClass(
+              "text-xs font-bold uppercase tracking-wider text-amber-700",
+            )}
+          >
+            Development OTP
+          </p>
+
+          <p
+            className={twClass(
+              "mt-1 select-all text-3xl font-black tracking-[0.35em] text-slate-900",
+            )}
+          >
+            {devOtp}
+          </p>
+
+          <p className={twClass("mt-2 text-xs font-medium text-slate-600")}>
+            Use this OTP to verify your account.
+          </p>
+        </div>
+      )}
+    </div>
   );
 }
 function PasswordInput({
